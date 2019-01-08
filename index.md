@@ -52,7 +52,7 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - Mandarin：native 
 - English: (fluent in reading, writing and speaking) 
 
-### COMPUTER SKILLS：
+### CFD SKILLS：
 - CAD/CAE:AutoCAD、Creo、UG
 - Mesh generation:GAMBIT、ICEM CFD
 - CFD platform: ANSYS FLUENT (UDF)、OpenFOAM (Linux C++ Programming)
@@ -60,4 +60,4 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - Numerical calculation: MATLAB、Maple、Mathematica
 - Document preparation: MS Office Suite、LaTeX
 
-#### 
+#### 2018
