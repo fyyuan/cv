@@ -4,34 +4,37 @@ You can use the [editor on GitHub](https://github.com/fyyuan/cv/edit/master/inde
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### EDUCATION
+- **Zhejiang University (ZJU)**, Hangzhou, China
+Ph.D. in Fluid Mechanics, Supervisor: Prof. Jianzhong Lin
+- **South China University of Technology (SCUT)**, Guangzhou, China
+B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### RESEARCH INTERESTS
+- Computational ﬂuid dynamics of aerosol(nanoparticles) turbulent ﬂow
+- Hydrodynamics and heat and mass transfer of nanoﬂuids
 
-```markdown
-Syntax highlighted code block
+### PUBLICATIONS
+- **Yuan F**, Chen Z. Direct expansion method of moments with n/3th moments for nanoparticle Brownian coagulation in the free molecule regime[J]. International Journal of Numerical Methods for Heat & Fluid Flow, 2015, 25(1):86-97. (SCI)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### CONFERENCES
+- The 9th China Academic Conference of Fluid Mechanics 2016，Nanjing
 
-1. Numbered
-2. List
+### INTERNSHIP & EXPERINECE
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### SCHOLARSHIP & HONORS
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### SKILLS
+-	Languages skills：			Mandarin：native 
+English：IELTS: 6.5 (fluent in reading, writing and speaking) ; 
+-	Computer skills：
+CAD/CAE:				AutoCAD、Pro/Engineer、UG
+Mesh generation: 			GAMBIT、ICEM CFD
+CFD platform: 			ANSYS FLUENT (UDF)、OpenFOAM (Linux C++ Programming)
+Data visualization:		Origin、Tecplot、ParaView、Gnuplot 
+Numerical calculation: 	MATLAB、Maple、Mathematica
+	Document preparation:	MS Office Suite、LaTeX
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fyyuan/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
