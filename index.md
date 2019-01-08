@@ -60,4 +60,4 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - Numerical calculation: MATLAB、Maple、Mathematica
 - Document preparation: MS Office Suite、LaTeX
 
-#### 2018
+#### 2019.1.8
