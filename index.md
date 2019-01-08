@@ -1,8 +1,12 @@
 ## Dr. FANGYANG YUAN
 School of Mechanical Engineering
 Jiangnan University
+    
 ### CONTACT INFORMATION
-
+No.1800, Lihu avenue, Wuxi, Jiangsu Province, China
+Tel：(0510) 8591 0390
+Mobile：
+Email：fyyuan@jiangnan.edu.cn
 
 ### EDUCATION
 - **Zhejiang University (ZJU)**, Hangzhou, China
