@@ -28,8 +28,6 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - Ouyang Z, Lin J, Wang Y, et al. Fiber orientation distribution and rheological properties of fiber suspension in a turbulent jet[J]. Korea-Australia Rheology Journal, 2018, 30(1): 55-63.
 - Haobin P, Li Y, Li Y, et al. Experimental Investigation of Combustion Kinetics of Wood Powder and Pellet[J]. Journal of Combustion, 2018, 2018.
 
-
-
 ### RESEARCH PROJECTS
 - National Natural Science Foundation of China (11632016)
 - National Natural Science Foundation of China (11802105)
@@ -40,7 +38,7 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 ### LECTURES / PRESENTATIONS
 - Yuan F, Chen Z, Pan X. Simulation of Particle Coagulation and Breakage in a Planar Jet via the DEMM Method ☆[J]. Procedia Engineering, 2015, 102:1650-1655. (EI, The 7th World Congress on Particle Technology (WCPT7), 2014, Beijing.)
 - Yuan F, Lin J. Convective heat transfer and resistance characteristics of nanofluids with cylindrical particles. (The 9th China Academic Conference of Fluid Mechanics 2016，Nanjing.)
-- The 8th International Conference on Fluid Mechanics (ICFM)
+- The 8th International Conference on Fluid Mechanics (ICFM8)
 
 ### TEACHING EXPERIENCE
 - Unit operations of chemical engineering
@@ -49,13 +47,14 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 ### LANGUAGES
 
 - Mandarin：native 
-- English: (fluent in reading, writing and speaking) ; 
+- English: (fluent in reading, writing and speaking) 
 
 ### Computer skills：
-- CAD/CAE:AutoCAD、Pro/Engineer、UG
+- CAD/CAE:AutoCAD、Creo、UG
 - Mesh generation:GAMBIT、ICEM CFD
 - CFD platform: ANSYS FLUENT (UDF)、OpenFOAM (Linux C++ Programming)
 - Data visualization: Origin、Tecplot、ParaView、Gnuplot 
 - Numerical calculation: MATLAB、Maple、Mathematica
-Document preparation: MS Office Suite、LaTeX
+- Document preparation: MS Office Suite、LaTeX
 
+#### 
