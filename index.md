@@ -29,6 +29,9 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - Haobin P, Li Y, Li Y, et al. Experimental Investigation of Combustion Kinetics of Wood Powder and Pellet[J]. Journal of Combustion, 2018, 2018.
 
 ### RESEARCH PROJECTS
+
+### FUNDS
+
 - National Natural Science Foundation of China (11632016)
 - National Natural Science Foundation of China (11802105)
 - Jiangsu Key Laboratory of Green Process Equipment (GPE201705)
