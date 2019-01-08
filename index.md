@@ -1,6 +1,5 @@
 ## Dr. FANGYANG YUAN
-School of Mechanical Engineering
-Jiangnan University
+School of Mechanical Engineering, Jiangnan University
     
 ### CONTACT INFORMATION
 - Address: No.1800, Lihu avenue, Wuxi, Jiangsu Province, China
@@ -26,6 +25,12 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - Chen Z, Yuan F, Jiang R J. Different approximate models of the sectional method for nanoparticle Brownian coagulation[J]. International Journal of Numerical Methods for Heat & Fluid Flow, 2015, 25(2):438-448. 
 - Ku X, Lin J, Yuan F. Influence of Torrefaction on Biomass Gasification performance in a High-Temperature Entrained-Flow Reactor. Energy & Fuels, 2016, 30(5): 4053-4064. 
 
+### RESEARCH PROJECTS
+- National Natural Science Foundation of China (11632016)
+- National Natural Science Foundation of China (11802105)
+- Jiangsu Key Laboratory of Green Process Equipment (GPE201705)
+- Fundamental Research Funds for the Central Universities (JUSRP11825)
+- Jiangsu Key Laboratory of Advanced Food Manufacturing Equipment & Technology（FMZ201808）
 
 ### LECTURES / PRESENTATIONS
 - Yuan F, Chen Z, Pan X. Simulation of Particle Coagulation and Breakage in a Planar Jet via the DEMM Method ☆[J]. Procedia Engineering, 2015, 102:1650-1655. (EI, The 7th World Congress on Particle Technology (WCPT7), 2014, Beijing.)
