@@ -1,8 +1,8 @@
-## FANGYANG YUAN
+## Dr. FANGYANG YUAN
+School of Mechanical Engineering
+Jiangnan University
+### CONTACT INFORMATION
 
-You can use the [editor on GitHub](https://github.com/fyyuan/cv/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### EDUCATION
 - **Zhejiang University (ZJU)**, Hangzhou, China
@@ -18,10 +18,10 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - **Yuan F**, Chen Z. Direct expansion method of moments with n/3th moments for nanoparticle Brownian coagulation in the free molecule regime[J]. International Journal of Numerical Methods for Heat & Fluid Flow, 2015, 25(1):86-97. (SCI)
 
 
-### CONFERENCES
+### LECTURES and SEMINARS
 - The 9th China Academic Conference of Fluid Mechanics 2016，Nanjing
 
-### INTERNSHIP & EXPERINECE
+### ADMINISTRATIVE RESPONSIBILITIES
 
 
 ### SCHOLARSHIP & HONORS
