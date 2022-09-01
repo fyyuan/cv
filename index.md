@@ -1,8 +1,15 @@
 ## FANGYANG YUAN
+<<<<<<< HEAD
+Associate Professor, Ph.D.  
+Department of Process Equipment & Control Engineering  
+School of Mechanical Engineering  
+Jiangnan University  
+=======
 Associate Professor, Ph.D.
 Department of Process Equipment & Control Engineering
 School of Mechanical Engineering
 Jiangnan University
+>>>>>>> b27d20b9d8d7f69bf2963781c584b7334fc016ec
     
 ### CONTACT INFORMATION
 - Address: No.1800, Lihu avenue, Wuxi, Jiangsu Province, China
@@ -15,10 +22,18 @@ Ph.D. in Fluid Mechanics, Supervisor: Prof. Jianzhong Lin
 B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 
 ### RESEARCH INTERESTS
+<<<<<<< HEAD
+- Nanoparticles/microbubbles/microplastic multiphase ﬂow
+- Heat and mass transfer in chemical engineering
+
+### PUBLICATIONS
+- **Yuan F**, Li X, Yu W, et al. A high-efficiency mini-hydrocyclone for microplastic separation from water via air flotation[J], Journal of Water Process Engineering. 2022, 49:103084.
+=======
 - Nanoparticles/microbubbles multiphase ﬂow
 - Heat and mass transfer in machinery
 
 ### PUBLICATIONS
+>>>>>>> b27d20b9d8d7f69bf2963781c584b7334fc016ec
 - **Yuan F**, Cao Y, Tu C, Lin J. Control of vortex shedding from two side-by-side cylinders using a pair of tangential jets[J]. *AIP Advances*, 2020, 10(10): 105129.
 - **Yuan F**, Guo F, Yu J, Cui Z. Experimental study on fine particle separation in a wet electrostatic classifier[J]. *Chemical Engineering and Processing - Process Intensification*, 2020, 156(10): 108108.
 - **Yuan F**, Yu W, Lin J. Numerical study of the effects of nanorod aspect ratio on Poiseuille flow and convective heat transfer in a circular minichannel[J]. *Microfluidics and Nanofluidics*, 2020, 24(62):1-15.
@@ -37,7 +52,12 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - Lin J, Shi R, **Yuan F**, Yu M. Distribution and penetration efficiency of cylindrical nano-particles in turbulent flows through a curved tube, *Aerosol Science and Technology*, 2020, 55(11): 1255-1269. 
 - Yu W, Li X, **Yuan F**. The effects of operating and structural parameters on oxidation removal of nitric oxide in a ceramic hollow ﬁber membrane contactor[J]. *Membranes*, 2021, 11(9), 704.
 - Pu G, Li X, **Yuan F**. Numerical study on heat transfer efficiency of regenerative thermal oxidizers with three canisters[J]. *Processes*, 2021, 9(9), 1621.
+<<<<<<< HEAD
+- Du J, Ge Z, Wu H, Shi X, **Yuan F**, et al. Study on the effects of runner geometric parameters on the performance of micro Francis turbines used in water supply system of high-rise buildings[J]. Energy, 2022, 256(1): 124616.
+- Wang D, ...**Yuan F**, et al. Flow pattern transition and wave characteristics of impinging jet flow on a spinning disk reactor, Chemical Engineering Journal, 2023, 451(2):138790.
+=======
 
+>>>>>>> b27d20b9d8d7f69bf2963781c584b7334fc016ec
 
 ### FUNDS
 
@@ -46,15 +66,25 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - National Natural Science Foundation of China (12172152)
 - National Natural Science Foundation of China (91634103)
 - Fundamental Research Funds for the Central Universities (JUSRP11825)
+- Jiangsu Key Laboratory of Advanced Food Manufacturing Equipment & Technology（FMZ202206）
 - Jiangsu Key Laboratory of Advanced Food Manufacturing Equipment & Technology（FMZ201808）
 - Jiangsu Key Laboratory of Advanced Food Manufacturing Equipment & Technology（FMZ202020）
 - Jiangsu Key Laboratory of Green Process Equipment (GPE201705)
+<<<<<<< HEAD
+- Jiangsu's mass entrepreneurship and innovation program (2018)
+=======
+>>>>>>> b27d20b9d8d7f69bf2963781c584b7334fc016ec
 
 ### LECTURES / PRESENTATIONS
 - Yuan F, Chen Z, Pan X. Simulation of Particle Coagulation and Breakage in a Planar Jet via the DEMM Method [J]. *Procedia Engineering*, 2015, 102:1650-1655. (The 7^th^ World Congress on Particle Technology (WCPT7), 2014, Beijing.)
 - Yuan F, Lin J. Convective heat transfer and resistance characteristics of nanofluids with cylindrical particles. (The 9^th^ China Academic Conference of Fluid Mechanics 2016，Nanjing.)
+<<<<<<< HEAD
+- The 8th International Conference on Fluid Mechanics (ICFM8)
+- The 14th International Conference on Gas-Liquid and Gas-Liquid-Solid Reactor Engineering (GLS-14)
+=======
 - The 8^th^ International Conference on Fluid Mechanics (ICFM8)
 - The 14^th^ International Conference on Gas-Liquid and Gas-Liquid-Solid Reactor Engineering (GLS-14)
+>>>>>>> b27d20b9d8d7f69bf2963781c584b7334fc016ec
 - UK–China International Particle Technology Forum VII (PTF7)
 
 ### TEACHING EXPERIENCE
@@ -64,10 +94,11 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - Complete Set of Process Equipments
 
 ### LANGUAGES
-
 - Mandarin：native 
 - English: (fluent in reading, writing and speaking) 
 
+<<<<<<< HEAD
+=======
 ### CFD SKILLS：
 - CAD/CAE:AutoCAD、Creo、UG
 - Mesh generation:GAMBIT、ICEM CFD
@@ -76,4 +107,5 @@ B.S. in Process Equipment & Control Engineering, Supervisor: Prof. Si Huang
 - Numerical calculation: MATLAB、Maple、Mathematica
 - Document preparation: MS Office Suite、LaTeX
 
-#### 2021.10.2
+>>>>>>> b27d20b9d8d7f69bf2963781c584b7334fc016ec
+#### 2022.9.2
